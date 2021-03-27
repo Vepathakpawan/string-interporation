@@ -1,0 +1,15 @@
+h1 {
+    color: rgb(57, 145, 145);
+    font-size: 30px;
+}
+
+.conatiner {
+    background-color: black;
+    width: 100%;
+    height: auto;
+}
+
+h2 {
+    color: wheat;
+    font-size: 30px;
+}
